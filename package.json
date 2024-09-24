@@ -1,0 +1,19 @@
+{
+  "name": "ihub-project",
+  "version": "1.0.0",
+  "main": "pdf-summarizer.js",
+  "scripts": {
+    "start": "node pdf-summarizer.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@google/generative-ai": "^0.16.0",
+    "express": "^4.19.2",
+    "multer": "^1.4.5-lts.1",
+    "pdf-parse": "^1.1.1"
+  }
+}

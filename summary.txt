@@ -1,0 +1,23 @@
+This text provides a comprehensive overview of the concepts of health, well-being, and their various dimensions. It begins by emphasizing the importance of health and its often-overlooked nature until it is lost. 
+
+The text then delves into the evolution of the concept of health, highlighting four key perspectives:
+
+* **Biomedical**:  Health is defined as the absence of disease, emphasizing the role of germs. However, it is criticized for minimizing the influence of social, psychological, and environmental factors.
+* **Ecological**: Health is viewed as a dynamic balance between humans and their environment, with disease being a maladjustment to this equilibrium.
+* **Psychosocial**: Health is recognized as being influenced by social, psychological, cultural, economic, and political factors.
+* **Holistic**: This approach recognizes the interconnectedness of all factors influencing health and emphasizes promotion and protection of well-being across all dimensions.
+
+The text then moves on to define health as a state of complete physical, mental, and social well-being, not merely the absence of disease. It further explains the "operational definition" of health, focusing on the absence of disease and normal functioning. 
+
+The core concept of well-being is introduced, encompassing both objective and subjective components. 
+
+* **Objective components** include standard of living (measured by income, housing, sanitation, etc.) and level of living (covering aspects like health, education, food consumption, etc.).
+* **Subjective components** focus on quality of life, which is assessed by individual perceptions of happiness and satisfaction.
+
+The text then discusses various indices used to measure quality of life, including:
+
+* **PQLI (Physical Quality of Life Index):** This index combines infant mortality, life expectancy at age one, and literacy to assess overall well-being.
+* **HDI (Human Development Index):** This index combines knowledge (education), income, and life expectancy to measure development.
+* **HPI (Human Poverty Index):** This index measures deprivation in basic dimensions of human development.
+
+The text concludes by emphasizing that health is a fundamental human right and a crucial component of a productive life. It highlights the intersectoral nature of health and its centrality to development and quality of life. Finally, it underscores the collective responsibility of individuals, states, and international bodies in promoting and maintaining health. 
